@@ -8,6 +8,7 @@
 
 アプリは macOS のメニューバーに表示され、各セッションが終了するたびに通知を送信します。
 
+![SCR-20250109-boura](https://github.com/user-attachments/assets/091cde15-98d6-4627-afef-6c6530fb4c8a)
 
 
 
