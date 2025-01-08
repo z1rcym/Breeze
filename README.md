@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://github.com/user-attachments/assets/92c2b3d3-df8e-4acb-bea3-ed774fd6a6eb" width="200" height="200">
-    <h1>Breeze</h1>
+    <h1>Shift</h1>
 
 これは、SwiftUI を使用して構築したシンプルな Pomodoro タイマー macOS アプリケーションです。
 
