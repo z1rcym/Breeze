@@ -1,10 +1,23 @@
-# Breeze
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/92c2b3d3-df8e-4acb-bea3-ed774fd6a6eb" width="200" height="200">
+    <h1>Breeze</h1>
 
 これは、SwiftUI を使用して構築したシンプルな Pomodoro タイマー macOS アプリケーションです。
 
 作業と休憩のセッションを管理するために役立ち、カスタマイズ可能な時間設定が可能です。
 
 アプリは macOS のメニューバーに表示され、各セッションが終了するたびに通知を送信します。
+
+
+
+</div>
+
+
+
+
+
+
+
 
 ## 特徴
 
