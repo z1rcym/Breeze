@@ -1,4 +1,4 @@
-# Pomodoro Timer macOS アプリ
+# Breeze
 
 これは、SwiftUI を使用して構築したシンプルな Pomodoro タイマー macOS アプリケーションです。
 
